@@ -6,9 +6,9 @@ DockIT is your solution for tracking events with platforms like Eventbrite and T
 We used Eventbrite and Ticketmaster APIs to connect the application using HTTParty with Ruby on Rails, we combined different parameters using Ruby methods to filter the information from the APIs, the parameters content was sent to the database using hidden field tags to save the information on the DockIT page or user Dock(dashboard). The front end was designed using bootstrap version 4, aimed for mobile first, second tablets and finally the desktop.
 
 
-####Note: You need to have a Google email to sign up to DockIT and try the application.
+#### Note: You need to have a Google email to sign up to DockIT and try the application.
 
-###Technologies Used:
+### Technologies Used:
 
 * Ruby version 2.4.1
 
@@ -27,7 +27,7 @@ We used Eventbrite and Ticketmaster APIs to connect the application using HTTPar
 * Html5, CSS3 and JS.
 
 
-###Future Features:
+### Future Features:
 
 * Text Notifications
 
