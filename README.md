@@ -22,8 +22,6 @@ We used Eventbrite and Ticketmaster APIs to connect the application using HTTPar
 
 * API TicketMaster
 
-* Sync Ebents to Google Calendar
-
 * Html5, CSS3 and JS.
 
 
